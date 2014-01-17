@@ -1,22 +1,6 @@
-# Řešení osmisměrky
+IZP: Řešení osmisměrky
+====================================
+Projekt do předmětu Základy programování (1. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 7/10
-
-### Chyby na obhajobě
-
- * -0.50 Seg. fault při záporném rozměru
- * +0.25 Opraveno
- * -0.50 Alokace bez testů
- * +0.25 Opraveno
-
-### Chyby po odevzdání
-
- * -0.50 Nezavírá soubor při špatných parametrech/špatném vstupu
- * -0.25 proj3.c:434 - zbytečné omezení
- * -1.00 search() - memory leak
- * -0.50 solve() - resource leak
- * -0.50 Špatné uvolnění paměti po částečné alokaci matice
